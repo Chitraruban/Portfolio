@@ -70,70 +70,72 @@ Java Developer | Final Year Electronics & Communication Engineering Student
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-<table>
-<tr>
-<td width="50%">
+## 💻 Software Development Projects
 
-## 🚗 V8 Engine with Alcohol Detector
+<details open>
+<summary><b>🧘 AI Yoga & Health Tracking Assistant</b></summary>
 
-Vehicle safety system that prevents the engine from starting if alcohol is detected.
+### 📖 Overview
+An AI-powered health assistant that provides personalized yoga recommendations and wellness tracking.
 
-**Tech Stack**
+### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![AI](https://img.shields.io/badge/AI-Powered-purple?style=flat-square)
+
+### ✨ Features
+- Personalized Yoga Recommendations
+- Health Progress Tracking
+- AI-Based Assistance
+
+</details>
+
+---
+
+## ⚙️ Core / Embedded Projects
+
+<details open>
+<summary><b>🚗 V8 Engine with Alcohol Detector</b></summary>
+
+### 📖 Overview
+A vehicle safety system that prevents the engine from starting if alcohol is detected.
+
+### 🛠️ Tech Stack
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-blue?style=flat-square)
-![MQ-3](https://img.shields.io/badge/MQ--3-success?style=flat-square)
+![MQ-3](https://img.shields.io/badge/MQ--3_Sensor-success?style=flat-square)
 
-**✨ Features**
+### ✨ Features
 - Alcohol Detection
 - Engine Lock
 - Buzzer Alert
 - LED Indicator
 
-</td>
+</details>
 
-<td width="50%">
+<details>
+<summary><b>📍 Smart Tourist Management System</b></summary>
 
-## 🧘 AI Yoga & Health Tracking Assistant
+### 📖 Overview
+An IoT-based tourist tracking system using GPS for real-time location monitoring.
 
-AI-powered assistant for health tracking and yoga recommendations.
-
-**Tech Stack**
-
-![AI](https://img.shields.io/badge/AI-Powered-purple?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-
-**✨ Features**
-- Health Tracking
-- Yoga Suggestions
-- AI Assistance
-- Progress Monitoring
-
-</td>
-</tr>
-</table>
-
----
-
-## 📍 Smart Tourist Management System
-
-IoT-based tourist tracking system with live GPS monitoring.
-
-**Tech Stack**
+### 🛠️ Tech Stack
 
 ![ESP32](https://img.shields.io/badge/ESP32-red?style=flat-square)
 ![GPS](https://img.shields.io/badge/GPS-blue?style=flat-square)
 ![IoT](https://img.shields.io/badge/IoT-green?style=flat-square)
 
-**✨ Features**
+### ✨ Features
 - Live GPS Tracking
 - Tourist Safety
 - IoT Communication
-- Real-Time Monitoring
+
+</details>
 ---
 
 # 🏅 Achievements
