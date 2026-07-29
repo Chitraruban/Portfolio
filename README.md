@@ -73,6 +73,7 @@ Java Developer | Final Year Electronics & Communication Engineering Student
 # 🚀 Featured Projects
 
 <details open>
+  
 <summary><b>🚗 V8 Engine with Alcohol Detector</b></summary>
 
 ### 📖 Overview
@@ -96,9 +97,11 @@ Developed a vehicle safety system that prevents the engine from starting if alco
 ---
 
 <details>
+  
 <summary><b>🧘 AI Yoga & Health Tracking Assistant</b></summary>
 
 ### 📖 Overview
+
 AI-powered health assistant that recommends yoga practices and monitors health progress.
 
 ### ✨ Key Features
@@ -119,6 +122,7 @@ AI-powered health assistant that recommends yoga practices and monitors health p
 ---
 
 <details>
+  
 <summary><b>📍 Smart Tourist Management System</b></summary>
 
 ### 📖 Overview
@@ -143,6 +147,7 @@ IoT-based tourist safety system with live GPS tracking.
 # 🏅 Achievements
 
 <details open>
+  
 <summary><b>🏆 Sports Achievements</b></summary>
 
 🥋 **State Level Kho Kho Player**
@@ -156,6 +161,7 @@ IoT-based tourist safety system with live GPS tracking.
 ---
 
 <details>
+  
 <summary><b>🎓 Academic & Technical Achievements</b></summary>
 
 🎖️ Java Programming – GUVI
@@ -171,6 +177,7 @@ IoT-based tourist safety system with live GPS tracking.
 ---
 
 <details>
+  
 <summary><b>🎯 Current Goals</b></summary>
 
 ✅ Master Java
@@ -182,6 +189,7 @@ IoT-based tourist safety system with live GPS tracking.
 ✅ Secure a Software Engineer Role
 
 </details>
+
 # 📫 Contact
 
 📧 **Email:** rupan.pappani@gmail.com
