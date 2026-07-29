@@ -147,9 +147,7 @@ IoT-based tourist safety system with live GPS tracking.
 # 🏅 Achievements
 
 <details open>
-  
 <summary><b>🏆 Sports Achievements</b></summary>
-
 
 🥋 **State Level Kho Kho Player**
 
@@ -157,40 +155,39 @@ IoT-based tourist safety system with live GPS tracking.
 
 🤸 **District Third Place – Pole Vault**
 
-</details>
-
----
-
-<details>
-  
-<summary><b>🎓 Academic & Technical Achievements</b></summary>
-
-🎖️ Java Programming – GUVI
-
-🗄️ Database & SQL – Infosys Springboard
-
-💼 Full Stack Web Development Internship
-
-🚀 Built AI & IoT Academic Projects
+🧘 **Recognized for Excellence in Yoga**
 
 </details>
 
 ---
 
 <details>
-  
-<summary><b>🎯 Current Goals</b></summary>
+<summary><b>💻 Technical Achievements</b></summary>
 
-✅ Master Java
+☕ **Java Programming Certification – GUVI**
 
-✅ Improve DSA Skills
+🗄️ **Database & SQL Certification – Infosys Springboard**
 
-✅ Build Real-World Projects
+💼 **Completed Full Stack Web Development Internship at Brainery Spot Technologies**
+
+🚀 **Developed AI & IoT-Based Academic Projects**
+
+</details>
+
+---
+
+<details>
+<summary><b>🎯 Career Goals</b></summary>
+
+✅ Master Java Development
+
+✅ Strengthen Data Structures & Algorithms
+
+✅ Build Real-World Software Projects
 
 ✅ Secure a Software Engineer Role
 
 </details>
-
 # 📫 Contact
 
 📧 **Email:** rupan.pappani@gmail.com
