@@ -149,6 +149,7 @@ IoT-based tourist safety system with live GPS tracking.
 <details open>
   
 <summary><b>🏆 Sports Achievements</b></summary>
+---
 
 🥋 **State Level Kho Kho Player**
 
