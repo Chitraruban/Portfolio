@@ -1,122 +1,64 @@
-<h1 align="center">Hi 👋, I'm Chitraruban S R</h1>
+<h1 align="center">Hi 👋, I'm Chitraruban</h1>
 
 <h3 align="center">
-Final Year Electronics & Communication Engineering Student | Java Developer
+Java Developer • Final Year ECE Student • Problem Solver
 </h3>
 
----
+<p align="center">
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Java+Developer;Problem+Solver;Open+Source+Learner;Always+Learning+New+Things+🚀">
 
-🎓 Final Year B.E. Electronics and Communication Engineering Student at VSB Engineering College.
+</p>
 
-💻 Passionate about Java Development and Problem Solving.
+<p align="center">
 
-🌱 Currently learning Java, MySQL, Git, GitHub and improving my Data Structures & Algorithms skills.
+<img src="https://komarev.com/ghpvc/?username=Chitraruban&label=Profile%20Views&color=0e75b6&style=for-the-badge">
 
-🎯 Looking for Software Developer opportunities to contribute and grow in the IT industry.
-
----
-
-## 🛠️ Skills
-
-### Programming
-- ☕ Java
-
-### Web Technologies
-- 🌐 HTML
-
-### Database
-- 🗄️ MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
-### Soft Skills
-- Leadership
-- Team Management
+</p>
 
 ---
 
-# 🚀 Projects
+# 🚀 About Me
+
+🎓 Final Year Electronics and Communication Engineering Student
+
+💻 Passionate Java Developer
+
+🌱 Learning Data Structures & Algorithms
+
+⚡ Interested in Software Development
+
+🎯 Goal: Software Engineer
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
 
 ## 🚗 V8 Engine with Alcohol Detector
 
-Developed a vehicle safety system that detects alcohol before allowing the engine to start.
-
-### Technologies
-- Embedded C
-- Arduino Uno / NodeMCU
-- MQ-3 Alcohol Sensor
-- Relay Module
-- Buzzer
-- LED
+Vehicle safety system using Arduino and MQ-3 Alcohol Sensor.
 
 ---
 
 ## 🧘 AI Yoga & Health Tracking Assistant
 
-Developed an AI-powered health assistant that provides wellness recommendations and tracks user fitness progress.
-
-### Technologies
-- AI Integration
-- Database Management
+AI-powered health recommendation system.
 
 ---
 
 ## 📍 Smart Tourist Management System
 
-Developed an IoT-based tourist tracking system for monitoring tourist locations in real time using GPS.
-
-### Technologies
-- ESP32
-- GPS Module
-- Arduino
-- Embedded Systems
-
----
-
-# 💼 Internship
-
-### Brainery Spot Technologies
-
-**Full Stack Web Development Intern**
-
-- Developed a Student Management System.
-- Worked on Frontend, Backend and Database.
-- Implemented CRUD Operations.
-
----
-
-# 🎓 Education
-
-**B.E Electronics and Communication Engineering**
-
-🏫 VSB Engineering College
-
-📈 CGPA: **7.9**
-
----
-
-# 📜 Certifications
-
-✔ Java – GUVI
-
-✔ Database & SQL – Infosys SpringBoard
-
----
-
-# 🏆 Achievements
-
-🏅 Khokho State Player
-
-🚴 District Second Place – Cycling
-
-🤸 District Third Place – Pole Vault
-
-🧘 Excellence in Yoga
+GPS-based tourist tracking using ESP32.
 
 ---
 
@@ -124,32 +66,68 @@ Developed an IoT-based tourist tracking system for monitoring tourist locations 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chitraruban&show_icons=true&theme=tokyonight">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Chitraruban&theme=tokyonight">
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitraruban&layout=compact&theme=tokyonight">
 
 </p>
 
 ---
 
-# 📫 Connect With Me
-
-📧 Email: rupan.pappani@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/chitraruban-S-R
-
-💻 GitHub: https://github.com/Chitraruban
-
-🧩 LeetCode: https://leetcode.com/Chitraruban
-
----
+# 🏆 GitHub Trophies
 
 <p align="center">
-⭐ Thank you for visiting my profile! ⭐
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chitraruban&theme=tokyonight&column=4">
+
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitraruban&theme=tokyo-night">
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chitraruban-S-R">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Chitraruban">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://leetcode.com/Chitraruban">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Chitraruban/Chitraruban/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+⭐ Thanks for visiting my profile.
