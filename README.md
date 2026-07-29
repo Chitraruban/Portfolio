@@ -142,7 +142,7 @@ Developed an IoT-based tourist tracking system for monitoring tourist locations 
 
 📧 Email: rupan.pappani@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/Chitraruban S.R
+💼 LinkedIn: https://www.linkedin.com/in/chitraruban-S-R
 
 💻 GitHub: https://github.com/Chitraruban
 
